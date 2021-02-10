@@ -1,0 +1,187 @@
+Eine Sache über den Mann, er ist ein __ Verkäufer.
+Eine Sache über den Mann, er ist ein __ Restaurantangestellter.
+Eine Sache über den Mann, er ist ein __ Schiedsrichter.
+Eine Sache über den Mann, Er ist ein __ Ingenieur.
+Eine Sache über den Mann, Er ist ein __ Forscher.
+Eine Sache über den Mann, Er ist ein __ Designer.
+Eine Sache über den Mann, Er ist ein __ Techniker.
+Eine Sache über den Mann, er ist Sicherheitskraft bei __.
+Eine Sache über den Mann, er ist ein Vorstandsmitglied bei __.
+Eine Sache über den Mann, er ist ein Kommandeur des __.
+Eine Sache über den Mann, er ist ein CEO von __.
+Eine Sache über den Mann, er ist ein Bauarbeiter.
+Eine Sache über den Mann, er ist ein Bauer.
+Eine Sache über den Mann, er ist ein Fischer.
+Eine Sache über den Mann, er ist ein Sänger.
+Eine Sache über den Mann, er ist ein Gesundheitspfleger.
+Eine Sache über den Mann, er ist ein Krankenpfleger.
+Eine Sache über den Mann, er ist ein Gutachter.
+Eine Sache über den Mann, er ist Architekt.
+Eine Sache über den Mann, er ist Staatsanwalt.
+Eine Sache über den Mann, er ist ein Quarantänebeamter.
+Eine Sache über den Mann, er ist ein Spieleprogrammierer.
+Eine Sache über den Mann, er ist ein Auktionator.
+Eine Sache über den Mann, er ist ein Polizist.
+Eine Sache über den Mann, er ist ein Bodyguard.
+Eine Sache über den Mann, er ist ein Gymnasiallehrer.
+Eine Sache über den Mann, er ist ein Grundschullehrer.
+Eine Sache über den Mann, er ist ein Beamter.
+Eine Sache über den Mann, er ist ein Zollbeamter.
+Eine Sache über den Mann, er ist ein Werbekoordinator.
+Eine Sache über den Mann, er ist ein Minenarbeiter.
+Eine Sache über den Mann, er ist ein Gefängniswärter.
+Eine Sache über den Mann, er ist ein Politiker.
+Eine Sache über den Mann, er ist ein Soldat.
+Eine Sache über den Mann, er ist ein Marinesoldat.
+Eine Sache über den Mann, er ist ein Meteorologe.
+Eine Sache über den Mann, er ist ein Nageldesigner.
+Eine Sache über den Mann, er ist ein Netzwerkprogrammierer.
+Eine Sache über den Mann, er ist ein Arbeitsanwalt.
+Eine Sache über den Mann, er ist ein Basketballspieler.
+Eine Sache über den Mann, er ist der Präsident.
+Eine Sache über den Mann, er ist ein Hochschulprofessor.
+Eine Sache über den Mann, er ist der Rektor der Universität.
+Eine Sache über den Mann, er ist ein Doktorand.
+Eine Sache über den Mann, Er ist ein Datenanalyst.
+Eine Sache über den Mann, er ist ein Datenbank Ingenieur.
+Eine Sache über den Mann, er ist ein Vergolder.
+Eine Sache über den Mann, er ist Bibliothekar.
+Eine Sache über den Mann, er ist ein Museumsführer.
+Eine Sache über den Mann, er ist ein Stadtplaner.
+Eine Sache über den Mann, er ist Metzger.
+Eine Sache über den Mann, er ist ein Simultandolmetscher.
+Eine Sache über den Mann, er ist ein Reporter.
+Eine Sache über den Mann, er ist ein Marshaller.
+Eine Sache über den Mann, er ist ein Zauberer.
+Eine Sache über den Mann, er ist ein Karikaturist.
+Eine Sache über den Mann, er ist ein Make-up Artist.
+Eine Sache über den Mann, er ist ein Model.
+Eine Sache über den Mann, er ist ein Pfarrer.
+Eine Sache über den Mann, er ist ein Tischler.
+Eine Sache über den Mann, er ist ein Tänzer.
+Eine Sache über den Mann, er ist ein Chiropraktiker.
+Eine Sache über den Mann, er ist Direktor der Galerie.
+Eine Sache über den Mann, er ist Friseur.
+Eine Sache über den Mann, er ist ein Barista.
+Eine Sache über den Mann, er ist ein Bartender.
+Eine Sache über den Mann, er ist der Museumsdirektor.
+Eine Sache über den Mann, er ist ein Fernsehautor.
+Eine Sache über den Mann, er ist ein Klempner.
+Eine Sache über den Mann, er ist ein Busfahrer.
+Eine Sache über den Mann, er ist Übersetzer.
+Eine Sache an dem Mann ist, dass er ein Holzfäller ist.
+Eine Sache über den Mann, er ist Patentanwalt.
+Eine Sache über den Mann, er ist Anwalt.
+Eine Sache über den Mann, er ist ein Edelsteinprüfer.
+Eine Sache über den Mann, er ist ein Goldschmied.
+Eine Sache über den Mann, er ist ein Aktuar.
+Eine Sache über den Mann, er ist ein Versicherungsvertreter.
+Eine Sache über den Mann, er ist ein Unteroffizier.
+Eine Sache über den Mann, er ist eine Sekretärin.
+Eine Sache über den Mann, er ist Fotograf.
+Eine Sache über den Mann, er ist ein Produktmanager.
+Eine Sache über den Mann, er ist ein Schiffsbauer.
+Eine Sache über den Mann, er ist ein Sänger.
+Eine Sache über den Mann, er ist ein Steuerberater.
+Eine Sache über den Mann, er ist ein Sommelier.
+Eine Sache über den Mann, er ist ein Feuerwehrmann.
+Eine Sache über den Mann, er ist ein Romanautor.
+Eine Sache über den Mann, er ist ein Stenotypist.
+Eine Sache über den Mann, er ist ein Versicherer.
+Eine Sache über den Mann, er ist ein Servicetechniker.
+Eine Sache über den Mann, er ist ein Schwimmer.
+Eine Sache über den Mann, er ist ein Tierarzt.
+Eine Sache über den Mann, er ist ein Sporttrainer.
+Eine Sache über den Mann, er ist ein Mönch.
+Eine Sache über den Mann, er ist ein Matrose/Schiffsmann.
+Eine Sache über den Mann, er ist ein Flugbegleiter.
+Eine Sache über den Mann, er ist ein Dichter.
+Eine Sache über den Mann, er ist ein Lebensmittelkontrolleur.
+Eine Sache über den Mann, er ist ein Journalist.
+Eine Sache über den Mann, er ist ein Kreditanalyst.
+Eine Sache über den Mann, er ist ein Psychologe.
+Eine Sache über den Mann, er ist ein Psychotherapeut.
+Eine Sache über den Mann, er ist ein Sprecher.
+Eine Sache über den Mann, er ist ein Masseur.
+Eine Sache über den Mann, er ist ein Choreograf.
+Eine Sache über den Mann, er ist ein Analytiker.
+Eine Sache über den Mann, er ist ein Nachrichtensprecher.
+Eine Sache über den Mann, er ist ein Baseballspieler.
+Eine Sache über den Mann, er ist Apotheker.
+Eine Sache über den Mann, er ist Redakteur.
+Eine Sache über den Mann, er ist ein Reiseführer.
+Eine Sache über den Mann, er ist ein Regisseur.
+Eine Sache über den Mann, er ist ein Ernährungswissenschaftler.
+Eine Sache über den Mann, er ist Drehbuchautor.
+Eine Sache über den Mann, er ist ein Filmregisseur.
+Eine Sache über den Mann, er ist ein Diplomat.
+Eine Sache über den Mann, er ist ein Koch.
+Eine Sache über den Mann, er ist ein Schweißer.
+Eine Sache über den Mann, er ist ein Briefträger.
+Eine Sache über den Mann, er ist ein Hochzeitsplaner.
+Eine Sache über den Mann, er ist ein Webentwickler.
+Eine Sache über den Mann, er ist ein Webdesigner.
+Eine Sache über den Mann, er ist ein Hygieniker.
+Eine Sache über den Mann, er ist ein Athlet.
+Eine Sache über den Mann, er ist ein Babysitter.
+Eine Sache über den Mann, er ist ein Banker.
+Eine Sache über den Mann, er ist Arzt.
+Eine Sache über den Mann, er ist ein Illustrator.
+Eine Sache über den Mann, er ist Automechaniker.
+Eine Sache über den Mann, er ist ein Komponist.
+Eine Sache über den Mann, er ist ein Taucher.
+Eine Sache über den Mann, er ist ein Militäroffizier.
+Eine Sache über den Mann, er ist ein General.
+Eine Sache über den Mann, er ist ein Begräbnisleiter.
+Eine Sache über den Mann, er ist ein Bestattungsfachkraft.
+Eine Sache über den Mann, er ist ein Schulinspektor.
+Eine Sache über den Mann, er ist Schneider.
+Eine Sache über den Mann, er ist ein Wahrsager.
+Eine Sache über den Mann, er ist ein Bäcker.
+Eine Sache über den Mann, er ist ein Landschaftsarchitekt.
+Eine Sache über den Mann, er ist ein Tiertrainer.
+Eine Sache über den Mann, er ist ein Gebrauchtwagenhändler.
+Eine Sache über den Mann, er ist der Dirigent.
+Eine Sache über den Mann, er ist ein Eisenbahnmechaniker.
+Eine Sache über den Mann, er ist ein Hausmeister.
+Eine Sache über den Mann, er ist Kameramann.
+Eine Sache über den Mann, er ist ein Fußballspieler.
+Eine Sache über den Mann, er ist Zahnarzt.
+Eine Sache über den Mann, er ist ein Cheerleader.
+Eine Sache über den Mann, er ist ein Autorennfahrer.
+Eine Sache über den Mann, er ist ein Texter.
+Eine Sache über den Mann, er ist ein Caddy.
+Eine Sache über den Mann, er ist ein Berater.
+Eine Sache über den Mann, er ist ein Komiker.
+Eine Sache über den Mann, er ist ein Kurator.
+Eine Sache über den Mann, er ist ein Kurier.
+Eine Sache über den Mann, er ist ein Taxifahrer.
+Eine Sache über den Mann, er ist ein Telemarketer.
+Eine Sache über den Mann, er ist ein Pilot.
+Eine Sache über den Mann, er ist ein Partyplaner.
+Eine Sache über den Mann, er ist ein Richter.
+Eine Sache über den Mann, er ist ein Fashion Stylist.
+Eine Sache über den Mann, er ist ein Fondsmanager.
+Eine Sache über den Mann, er ist ein Kritiker.
+Eine Sache über den Mann, er ist ein Food-Stylist.
+Eine Sache über den Mann, er ist ein professioneller Spieler.
+Eine Sache über den Mann, er ist ein Florist.
+Eine Sache über den Mann, er ist ein Kosmetiker.
+Eine Sache über den Mann, er ist ein Schiffer.
+Eine Sache über den Mann, er ist ein Kommentator.
+Eine Sache über den Mann, er ist ein Veranstaltungsplaner.
+Eine Sache über den Mann, er ist ein Headhunter.
+Eine Sache über den Mann, er ist ein Detektiv.
+Eine Sache über den Mann, er ist ein Hotelmanager.
+Eine Sache über den Mann, er ist ein Maler.
+Eine Sache über den Mann, er ist ein Frachtfahrer.
+Eine Sache über den Mann, er ist ein Straßenreiniger.
+Eine Sache über den Mann, er ist ein Buchhalter.
+Eine Sache über den Mann, er ist ein Handyhändler.
+Eine Sache über den Mann, er ist ein Pianist.
+Eine Sache über den Mann, er ist Gitarrist.
+Eine Sache über den Mann, er ist Geigenspieler.
+Eine Sache über den Mann, er ist ein Bratschist.
+Eine Sache über den Mann, er ist ein Cellist.
+Eine Sache über den Mann, er ist ein Bassist.
+Eine Sache über den Mann, er ist ein Schlagzeuger.
