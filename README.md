@@ -1,6 +1,4 @@
-## Template and example code for ACM FaccT 2021 paper:
-
-[Towards Cross-Lingual Generalization of Translation Gender Bias]()
+Template and example code for paper: [Towards Cross-Lingual Generalization of Translation Gender Bias]() (ACM FaccT 2021)
 
 ## Data files
 
@@ -68,6 +66,8 @@ Note
 Our bleu evalation example can be found [here](https://colab.research.google.com/drive/1y0uvMCs_lXqRilE7GI9lRAVbt35BmgBI)
 
 ### Authors
-
-### Reference
+Won Ik Cho<br/>
+[Jiwon Kim](https://github.com/SpellOnYou)<br/>
+Jaeyeong Yang<br/>
+Nam Soo Kim<br/>
 
