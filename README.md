@@ -1,5 +1,7 @@
 Template and example code for paper: [Towards Cross-Lingual Generalization of Translation Gender Bias]() (ACM FaccT 2021)
 
+![figure-3.png](figure-3.png)
+
 ## Data files
 
 All files are plain txt, UTF-8 encoding, and each word/sentence was seperated by new line('\n').
@@ -66,8 +68,9 @@ Note
 Our bleu evalation example can be found [here](https://colab.research.google.com/drive/1y0uvMCs_lXqRilE7GI9lRAVbt35BmgBI)
 
 ### Authors
-Won Ik Cho<br/>
-[Jiwon Kim](https://github.com/SpellOnYou)<br/>
+\*Won Ik Cho<br/>
+\*[Jiwon Kim](https://github.com/SpellOnYou)<br/>
 Jaeyeong Yang<br/>
 Nam Soo Kim<br/>
 
+\*: equally contributed
