@@ -1,4 +1,4 @@
-Template and example code for paper: [Towards Cross-Lingual Generalization of Translation Gender Bias]() (ACM FaccT 2021)
+Template and example code for paper: [Towards Cross-Lingual Generalization of Translation Gender Bias](https://doi.org/10.1145/3442188.3445907) (ACM FaccT 2021)
 
 ![figure-3.png](figure-3.png)
 
@@ -74,3 +74,13 @@ Jaeyeong Yang<br/>
 Nam Soo Kim<br/>
 
 \*: equally contributed
+
+If you find this repo useful, please cite this:
+
+`
+@inproceedings{10.1145/3442188.3445907,
+author = {Cho, Won Ik and Kim, Jiwon and Yang, Jaeyeong and Kim, Nam Soo},
+title = {Towards Cross-Lingual Generalization of Translation Gender Bias},
+year = {2021},
+url = {https://doi.org/10.1145/3442188.3445907},
+}`
