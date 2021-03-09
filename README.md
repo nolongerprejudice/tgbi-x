@@ -79,8 +79,8 @@ If you find this repo useful, please cite this:
 
 `
 @inproceedings{10.1145/3442188.3445907,
-author = {Cho, Won Ik and Kim, Jiwon and Yang, Jaeyeong and Kim, Nam Soo},
-title = {Towards Cross-Lingual Generalization of Translation Gender Bias},
-year = {2021},
-url = {https://doi.org/10.1145/3442188.3445907},
+  author = {Cho, Won Ik and Kim, Jiwon and Yang, Jaeyeong and Kim, Nam Soo},
+  title = {Towards Cross-Lingual Generalization of Translation Gender Bias},
+  year = {2021},
+  url = {https://doi.org/10.1145/3442188.3445907},
 }`
